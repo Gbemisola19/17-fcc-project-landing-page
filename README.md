@@ -2,7 +2,7 @@
 
 > This a certification project about basic html and CSS elements.
 
-![alt text](app_screenshot.png)
+![screenshot](app_screenshot.png)
 
 Additional description of the project and its features.
 
