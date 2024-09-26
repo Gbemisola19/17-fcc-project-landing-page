@@ -51,4 +51,4 @@ async function runAccessibilityCheck() {
   console.log('Accessibility report generated.');
 }
 
-runAccessibility
+runAccessibilityCheck();
